@@ -1,0 +1,9 @@
+Git: https://learngitbranching.js.org/?locale=pt_BR
+
+Códigos de status de respostas HTTP: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Status
+
+Métodos de requisição HTTP: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Methods
+
+Injeção de dependências: https://www.freecodecamp.org/portuguese/news/uma-rapida-introducao-a-injecao-de-dependencias-o-que-e-e-quando-usa-la/
+
+Lista de portas: https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP
